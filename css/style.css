@@ -9,25 +9,10 @@
   --ligt-color: #f4f4fd;
 }
 
-.container {
-  width: 1158px;
-  margin-left: auto;
-  margin-bottom: auto;
-  padding-left: 15px;
-  padding-right: 15px;
-}
-
 .header {
   text-align: center;
   padding-top: 24px;
   padding-bottom: 24px;
-}
-
-
-.header-container {
-display: flex;
-align-items: center;
-justify-content: space-between;
 }
 
 body {
