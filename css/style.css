@@ -114,6 +114,10 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--grey-color);
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  border: 1px solid red;
 }
 .header-item-section :hover {
   color: var(--grey-color);
