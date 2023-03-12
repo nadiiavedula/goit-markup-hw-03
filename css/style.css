@@ -312,6 +312,7 @@ border-radius: 0px 0px 4px 4px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--dark-grey-color);
+  list-style: none;
 }
 
 .card-text {
@@ -319,4 +320,5 @@ border-radius: 0px 0px 4px 4px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--grey-color);
+  list-style: none;
 }
