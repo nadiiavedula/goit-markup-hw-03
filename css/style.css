@@ -187,10 +187,19 @@ body {
   color: var(--white-color);
   background-color: var(--ocean-color);
 }
+
+.subtitel-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 24px;
+  padding: 120px 0;
+}
 .subtitel-item {
   list-style-type: none;
 }
 .subtitel {
+  margin-bottom: 8px;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
